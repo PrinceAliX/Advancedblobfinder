@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Joshua Wright jwright@hasborg.com
-# Ali Mohammad Mian - Modified for added functionality
+# Ali Mohammad Mian https://www.youtube.com/@PrinceAliSecurity :- Modified for added functionality
 
 import sys
 import socket
